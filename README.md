@@ -3,3 +3,8 @@
 ## Ejemplos de lista
 + Elemento 1
 + Elemento 2
+
+```python 
+def hello_world():
+    print("Hello, world!")
+```
